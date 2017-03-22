@@ -17,7 +17,6 @@ project/plugins/project/
 .worksheet
 .gradle/
 .idea/workspace.xml
-src/
 .idea/modules/scala_learn-build.iml
 .idea/sbt.xml
 .idea/scala_compiler.xml
